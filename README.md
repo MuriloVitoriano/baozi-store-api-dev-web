@@ -1,8 +1,8 @@
-\# Baozi Store API
+* Baozi Store API
 
 
 
-\## Sobre o projeto
+* Sobre o projeto
 
 
 
@@ -14,7 +14,7 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\## Tecnologias utilizadas
+* Tecnologias utilizadas
 
 
 
@@ -40,7 +40,7 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\## Estrutura do projeto
+* Estrutura do projeto
 
 
 
@@ -74,11 +74,11 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\## Endpoints da API
+* Endpoints da API
 
 
 
-\### Clientes
+Clientes
 
 
 
@@ -96,7 +96,7 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\### Produtos
+Produtos
 
 
 
@@ -114,7 +114,7 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\### Pedidos
+Pedidos
 
 
 
@@ -132,7 +132,7 @@ O projeto simula o sistema de gerenciamento de uma loja fictícia de produtos de
 
 
 
-\## Banco de dados
+* Banco de dados
 
 
 
@@ -148,7 +148,7 @@ As tabelas são gerenciadas pelo Hibernate por meio do Spring Data JPA.
 
 
 
-\## Como executar
+* Como executar
 
 
 
@@ -206,7 +206,7 @@ As tabelas são gerenciadas pelo Hibernate por meio do Spring Data JPA.
 
 
 
-\## Testes realizados
+* Testes realizados
 
 
 
@@ -222,11 +222,11 @@ As credenciais do banco de dados são configuradas por meio de variáveis de amb
 
 
 
-\## Autor
+* Autor
 
 
 
-\*\*Murilo Vitoriano Bezerra\*\*
+\--Murilo Vitoriano Bezerra--
 
 
 
@@ -242,7 +242,7 @@ Ano: 2026
 
 
 
-\## Finalidade
+* Finalidade
 
 
 
